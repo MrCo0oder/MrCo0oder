@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrCo0oder;
 - 👀 I’m interested in Coding ,gym ,video games and Carpentary;
-- 🌱 I’m currently learning react and react Native;
+- 🌱 I’m currently learning React and React Native;
 
 <!---
 MrCo0oder/MrCo0oder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

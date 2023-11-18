@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/MrCo0oder?tab=repositories" target="blank">GitHub</a>
 
-- 💬 Ask me about **android sdk**
+- 💬 Ask me about **android sdk / flutter**
 
 - 📫 How to reach me **ahmedbadawiiehab@gmail.com**
 

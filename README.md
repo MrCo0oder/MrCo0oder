@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **android development (hilt - coroutines - flows)/flutter development**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/MrCo0oder?tab=repositories" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="CV" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/MrCo0oder?tab=repositories" target="blank">GitHub</a>
 
 - 💬 Ask me about **android sdk**
 

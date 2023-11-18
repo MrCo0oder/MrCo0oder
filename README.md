@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **android development (hilt - coroutines - flows)/flutter development**
 
-- 👨‍💻 All of my projects are available at <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/MrCo0oder?tab=repositories" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" alt="CV" height="30" width="40" /></a>
 
 - 💬 Ask me about **android sdk**
 

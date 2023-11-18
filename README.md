@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed-Badawii</h1>
 <h3 align="center">A passionate android developer from Egypt</h3>
 
-- 🌱 I’m currently learning **android development (hilt - coroutines - flows)/flutter development**
+- 🌱 I’m currently learning **android development (Jetpack compose)**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/MrCo0oder?tab=repositories" target="blank">GitHub</a>
 
